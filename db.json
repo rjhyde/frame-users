@@ -1,6 +1,5 @@
 {
-    "users ": [
-  {
+    "users ": [{
     "external_id": "riblet8",
     "updated_at": "2020-09-15T22:26:21.000Z",
     "email": "riblet8@meltwater.com",
@@ -29,6 +28,5 @@
     "updated_at": "2020-09-15T21:37:27.000Z",
     "email": "geekgearhead@palantir.com",
     "org_ids": "palantir.com"
-  }
-]
+  }]
 }
