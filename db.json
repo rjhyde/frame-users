@@ -1,4 +1,5 @@
-[
+{
+    "users ": [
   {
     "external_id": "riblet8",
     "updated_at": "2020-09-15T22:26:21.000Z",
@@ -30,3 +31,4 @@
     "org_ids": "palantir.com"
   }
 ]
+}
